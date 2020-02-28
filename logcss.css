@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-image: url("images/logback2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time roman;
+    
+}
+
+h1{
+    font-size: 30px;
+    padding: 7px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 40px 0px 0px 40px;
+    margin-top: 110px;
+}
+
+h2{
+    font-size: 30px;
+    padding: 7px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 40px 0px 0px 40px;
+    
+}
+
+h3{
+    font-size: 40px;
+    color: white;
+    text-shadow: 1px 1px 10px white ;
+    margin-bottom: 43px;
+    
+    
+}
+
+.form-control{
+    background: transparent;
+    margin-top: 27px;
+    font-size: 21px;
+    color: white;
+   height: 44px;
+}
+
+input[type="checkbox"]{
+    margin-top: 50px;
+    
+}
+
+small{
+    font-size: 19px;
+    color: white;
+}
+
+.btn-info{
+    margin-top: 20px;
+    margin-left: 23px;
+    width: 200px;
+    font-size: 20px;
+    
+}
+
+
+hr{
+    margin-top: 30px;
+    color: white;
+    
+}
+
+
+a{
+    font-size: 19px;
+    color: white;
+    margin-left: 50px;
+    
+}
+
+.col-md-6{
+    margin-top: 110px;
+    border-radius: 0px 80px 0px 80px;
+   
+}
